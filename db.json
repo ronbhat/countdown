@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "title": "Release RN course",
+      "date": "2018-09-11T06:46:36+05:30",
+      "id": "05dafc66-bd91-43a0-a752-4dc40f039144"
+    },
+    {
+      "title": "Demo a new app",
+      "date": "2018-09-14T14:36:36+05:30",
+      "id": "001c9b6d-00a9-465c-a2d3-afb7176a0a87"
+    },
+    {
+      "title": "Go on holiday",
+      "date": "2018-09-17T08:21:00+05:30",
+      "id": "4cdbe78f-54df-4769-bf3b-02a930161ec5"
+    },
+    {
+      "title": "Come back from holiday",
+      "date": "2018-10-17T08:21:00+05:00",
+      "id": "81066e94-5e2a-410a-986c-67dcc72d3a82"
+    },
+    {
+      "title": "New event",
+      "date": "2018-09-28T07:40:00.000Z",
+      "id": "c1f9e350-4ef2-48e0-b179-4cd794db65d0"
+    },
+    {
+      "title": "One event",
+      "date": "2018-10-12T07:42:00.000Z",
+      "id": "e78571d9-778e-4940-aa6d-51707ca6cbf3"
+    },
+    {
+      "title": "One more event",
+      "date": "2018-09-17T01:58:00.000Z",
+      "id": "3f62fe2f-ed4c-41e2-b44a-894205067843"
+    }
+  ]
+}
